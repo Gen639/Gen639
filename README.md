@@ -8,7 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gen639&label=Profile%20views&color=0e75b6&style=flat" alt="Gen639" /> </p>
 
 - 🔭 I’m currently working on a **job search website**
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning **MERN stack**
 - 💞️ I’m looking to collaborate on **MERN Fullstack projects**
 - ⚡ Fun fact: **Lived in India for 3 years**
