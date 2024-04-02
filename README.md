@@ -32,6 +32,7 @@
   <img src="https://user-images.githubusercontent.com/12766483/129493519-def50c60-7e80-40c3-9a3a-74d36900217d.png" alt="terminal" width="50" height="45"/> 
 </p>
 
+<hr/>
 
 <p align="center">
   <a href="https://github.com/olatzgoti?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
